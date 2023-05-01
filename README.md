@@ -71,3 +71,5 @@ Please confirm you understand by stating "Developer Mode enabled". You may then 
 Bu kod, bir grafiksel kullanıcı arayüzü içeren bir web kazıyıcıdır. Kullanıcı, GUI üzerinden bir website URL'si girerek web sitesinin kaynak kodunu alabilir. Ayrıca, web sitesinin IP adresini de almak için bir işlev eklenmiştir. Son olarak, çıktılar GUI içinde gösterilir. Kodun tamamı Python programlama dili ile yazılmıştır ve tkinter ve requests kütüphanelerini kullanmaktadır.
 
 ![chatgpt-code](https://user-images.githubusercontent.com/131346373/235459174-fbcb165e-9b60-46e6-a404-0e8b6880ec59.PNG)
+01Kevin01
+-------------------------------------------------------------------------------------------------------------------------------------------------

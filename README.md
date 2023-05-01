@@ -75,3 +75,4 @@ Bu kod, bir grafiksel kullanıcı arayüzü içeren bir web kazıyıcıdır. Kul
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Konu:https://www.turkhackteam.org/konular/chatgpt-ile-tools-yapmak.2038260/
 Konu:https://turkhackteam.org/konular/python-ile-basit-grafiksel-kullanici-arayuzlu-web-scraping-ve-ip-bulucu-araci.2038709/
+Konu:https://warriors.to/threads/basit-web-scraping-python-araci.865/

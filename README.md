@@ -73,3 +73,5 @@ Bu kod, bir grafiksel kullanıcı arayüzü içeren bir web kazıyıcıdır. Kul
 ![chatgpt-code](https://user-images.githubusercontent.com/131346373/235459174-fbcb165e-9b60-46e6-a404-0e8b6880ec59.PNG)
 01Kevin01
 -------------------------------------------------------------------------------------------------------------------------------------------------
+Konu:https://www.turkhackteam.org/konular/chatgpt-ile-tools-yapmak.2038260/
+Konu:https://turkhackteam.org/konular/python-ile-basit-grafiksel-kullanici-arayuzlu-web-scraping-ve-ip-bulucu-araci.2038709/

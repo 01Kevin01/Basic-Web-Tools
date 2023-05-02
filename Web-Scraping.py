@@ -5,22 +5,22 @@ import socket
 
 def menu():
     print("1- Web Scraping")
-    print("2- Site Analizi")
-    print("3- Arka Kapı Kontrolü")
-    print("4- Sertifika Kontrolü")
-    print("5- Link Analizi")
-    print("6- SQL Enjeksiyonu")
-    print("7- Port Taraması")
-    print("8- Çıkış")
+    print("2- Site Analysis")
+    print("3- Back Door Control")
+    print("4- Certificate Check")
+    print("5- Link Analysis")
+    print("6- SQL Injection")
+    print("7- Port Scan")
+    print("8- Exit")
 
 def web_scraping():
-    url = input("Web sitesinin URL'sini girin: ")
+    url = input("Enter the URL of the website: ")
     r = requests.get(url)
     content = r.text
     print(content)
 
 def site_analizi():
-    url = input("Web sitesinin URL'sini girin: ")
+    url = input("Enter the URL of the website: ")
     r = requests.get(url)
     status = r.status_code
     headers = r.headers
@@ -30,23 +30,23 @@ def site_analizi():
         print(header + ":", headers[header])
 
 def arka_kapi_kontrol():
-    url = input("Web sitesinin URL'sini girin: ")
+    url = input("Enter the URL of the website: ")
     if "admin" in url:
-        print("Var")
+        print("Available")
     else:
-        print("Yok")
+        print("Unavailable")
 
 def sertifika_kontrol():
-    url = input("Web sitesinin URL'sini girin: ")
+    url = input("Enter the URL of the website: ")
     r = requests.get(url)
     cert = r.connection.sock.getpeercert()
     if cert:
-        print("Sertifika var")
+        print("There is a certificate")
     else:
-        print("Sertifika yok")
+        print("No certificate")
 
 def link_analizi():
-    url = input("Web sitesinin URL'sini girin: ")
+    url = input("Enter the URL of the website: ")
     r = requests.get(url)
     content = r.text
     pattern = re.compile(r'href="(.*?)"')
@@ -56,22 +56,22 @@ def link_analizi():
         print(link)
 
 def sql_enjeksiyonu():
-    url = input("Web sitesinin URL'sini girin: ")
-    payload = input("SQL Enjeksiyon Payload'u girin: ")
+    url = input("Enter the URL of the website: ")
+    payload = input("Enter SQL Injection Payload: ")
     r = requests.get(url + payload)
     content = r.text
     if "syntax" in content:
-        print("Bu site SQL enjeksiyonuna açık")
+        print("This site is open to SQL injection")
     else:
-        print("Bu site SQL enjeksiyonuna kapalı")
+        print("This site is closed to SQL injection")
 
 def port_taramasi():
-    ip = input("IP adresi girin: ")
+    ip = input("Enter IP address: ")
     for port in range(1, 65536):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         result = s.connect_ex((ip, port))
         if result == 0:
-            print("Port", port, "açık")
+            print("Port", port, "open")
         s.close()
 
 while True:
@@ -94,7 +94,7 @@ while True:
     elif secim == "8":
         break
     else:
-        print("Geçersiz seçim")
+        print("Invalid selection")
 
-input("Çıkmak için bir tuşa basın...")
+input("Press any key to exit...")
 #01Kevin01

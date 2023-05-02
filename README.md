@@ -96,6 +96,19 @@ Konu:https://warriors.to/threads/basit-web-scraping-python-araci.865/
 -------------------------------------------------------------------------------------------------------------------------------------------------
 🇹🇷"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."🇹🇷
 -Mustafa Kemal Atatürk
+
 00110000 00110001 01001011 01100101 01110110 01101001 01101110 00110000 00110001 
+
 "Siber güvenlik konusunda bilinçli olun ve saldırılar yerine, güvenliği arttırmak için çalışın."
 #NewDayNewCyberSecurity
+-------------------------------------------------------------------------------------------------------------------------------------------------
+🇹🇷"Seeing me doesn't necessarily mean seeing my face. If you understand and feel my ideas and my feelings, that's enough."
+-Mustafa Kemal Atatürk
+
+00110000 00110001 01001011 01100101 01110110 01101001 01101110 00110000 00110001
+
+"Be cybersecurity conscious and work to improve security rather than attacks."
+#NewDayNewCyberSecurity
+
+
+

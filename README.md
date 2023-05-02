@@ -89,19 +89,13 @@ Bu kod, kullanıcının girdiği bir URL için site güvenliği testi gerçekle�
 Konu:https://www.turkhackteam.org/konular/chatgpt-ile-tools-yapmak.2038260/
 Konu:https://turkhackteam.org/konular/python-ile-basit-grafiksel-kullanici-arayuzlu-web-scraping-ve-ip-bulucu-araci.2038709/
 Konu:https://warriors.to/threads/basit-web-scraping-python-araci.865/
+-------------------------------------------------------------------------------------------------------------------------------------------------
+!!UYARI!! EĞİTİM İÇİN YAPILDI
 
-
-
-[HEADING=1][CENTER]🇹🇷[COLOR=rgb(243, 121, 52)]"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."[/COLOR]🇹🇷[/CENTER][/HEADING]
-[CENTER][COLOR=rgb(61, 142, 185)]-Mustafa Kemal Atatürk[/COLOR]
-[COLOR=rgb(65, 168, 95)]██╗░░██╗░█████╗░░█████╗░██╗░░██╗███████╗██████╗░
-██║░░██║██╔══██╗██╔══██╗██║░██╔╝██╔════╝██╔══██╗
-███████║███████║██║░░╚═╝█████═╝░█████╗░░██████╔╝
-██╔══██║██╔══██║██║░░██╗██╔═██╗░██╔══╝░░██╔══██╗
-██║░░██║██║░░██║╚█████╔╝██║░╚██╗███████╗██║░░██║
-╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝
-00110000 00110001 01001011 01100101 01110110 01101001 01101110 00110000 00110001 [/COLOR]
-[B][SIZE=4][COLOR=rgb(255, 255, 255)]"Siber güvenlik konusunda bilinçli olun ve saldırılar yerine, güvenliği arttırmak için çalışın."[/COLOR][/SIZE][/B]
-
-[SIZE=4][COLOR=rgb(255, 255, 255)][B]#NewDayNewCyberSecurity[/B][/COLOR][/SIZE]
-[B][SIZE=4][COLOR=rgb(255, 255, 255)]#NDNCS[/COLOR][/SIZE][/B][/CENTER]
+!!WARNING!! MADE FOR EDUCATION
+-------------------------------------------------------------------------------------------------------------------------------------------------
+🇹🇷"Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."🇹🇷
+-Mustafa Kemal Atatürk
+00110000 00110001 01001011 01100101 01110110 01101001 01101110 00110000 00110001 
+"Siber güvenlik konusunda bilinçli olun ve saldırılar yerine, güvenliği arttırmak için çalışın."
+#NewDayNewCyberSecurity

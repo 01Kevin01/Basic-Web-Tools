@@ -87,9 +87,10 @@ Bu kod, kullanıcının girdiği bir URL için site güvenliği testi gerçekle�
 01Kevin01
 -------------------------------------------------------------------------------------------------------------------------------------------------
 # Url_finder
+![Ekran Alıntısı](https://user-images.githubusercontent.com/131346373/236143607-e94aec88-fba9-4304-bc87-7ff280bf1752.PNG)
 
 Bu kodlar, bir web sitesinde gezinerek bağlantıları bulan ve arama motorları tarafından indekslenmeyen bağlantıları, yönetici ve giriş sayfalarını bulan bir programı içeriyor. Ayrıca, bir grafik arayüzü (GUI) oluşturarak kullanıcının bir URL girmesine ve programın sonuçlarını bir metin kutusunda göstermesine olanak tanır. Program, Python dilinde yazılmıştır ve requests, re, BeautifulSoup ve tkinter kütüphanelerini kullanır. Bu kodlar, bir web sitesinin analizini yapmak için kullanılabilir.
-![Ekran Alıntısı](https://user-images.githubusercontent.com/131346373/236143607-e94aec88-fba9-4304-bc87-7ff280bf1752.PNG)
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Konu:https://www.turkhackteam.org/konular/chatgpt-ile-tools-yapmak.2038260/

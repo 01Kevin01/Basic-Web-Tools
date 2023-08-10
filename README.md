@@ -100,7 +100,7 @@ https://www.turkhackteam.org/konular/python-tkinter-ile-sohbet-botunu-gelistirin
 -------------------------------------------------------------------------------------------------------------------------------------------------
 Konu:https://www.turkhackteam.org/konular/chatgpt-ile-tools-yapmak.2038260/
 Konu:https://turkhackteam.org/konular/python-ile-basit-grafiksel-kullanici-arayuzlu-web-scraping-ve-ip-bulucu-araci.2038709/
-Konu:https://warriors.to/threads/basit-web-scraping-python-araci.865/
+
 -------------------------------------------------------------------------------------------------------------------------------------------------
 !!UYARI!! EĞİTİM İÇİN YAPILDI
 

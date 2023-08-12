@@ -92,7 +92,7 @@ Bu kod, kullanıcının girdiği bir URL için site güvenliği testi gerçekle�
 Bu kodlar, bir web sitesinde gezinerek bağlantıları bulan ve arama motorları tarafından indekslenmeyen bağlantıları, yönetici ve giriş sayfalarını bulan bir programı içeriyor. Ayrıca, bir grafik arayüzü (GUI) oluşturarak kullanıcının bir URL girmesine ve programın sonuçlarını bir metin kutusunda göstermesine olanak tanır. Program, Python dilinde yazılmıştır ve requests, re, BeautifulSoup ve tkinter kütüphanelerini kullanır. Bu kodlar, bir web sitesinin analizini yapmak için kullanılabilir.
 -------------------------------------------------------------------------------------------------------------------------------------------------
 # ChatBot2
-https://user-images.githubusercontent.com/131346373/259411076-5b2f444c-cb22-4f46-8e26-7cb4c484e9a9.PNG
+![ChatBot2](https://github.com/01Kevin01/ChatBot2/assets/131346373/5b2f444c-cb22-4f46-8e26-7cb4c484e9a9)
 https://github.com/01Kevin01/ChatBot2
 Bu kod, kullanıcıların bir Tkinter arayüzü üzerinden bir sohbet botuyla etkileşime girmesini sağlayan bir Python programını oluşturuyor. Kullanıcılar metin girişi yapabilir, çeşitli komutları çalıştırabilir ve botun cevaplarını görüntüleyebilirler. Aynı zamanda hava durumu bilgisini çekmek, Wikipedia aramaları yapmak, iletişim bilgilerini göstermek gibi işlevleri de içerir.
 
